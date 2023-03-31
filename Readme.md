@@ -1,4 +1,4 @@
-# OpenAI/ChatGPT 免翻墙代理
+# OpenAI/ChatGPT 免FQ代理
 
 据很多网友反应，**OpenAI 检测到中国的 API
 访问时，会直接封号**。所以我在国外的服务器上搭建了一个代理，用于访问
